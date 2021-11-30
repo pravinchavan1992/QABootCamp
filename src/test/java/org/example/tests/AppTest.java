@@ -1,4 +1,4 @@
-package org.example;
+package org.example.tests;
 
 
 import com.google.common.util.concurrent.Uninterruptibles;
